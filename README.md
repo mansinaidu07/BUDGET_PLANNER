@@ -58,12 +58,13 @@ Conclusion
 This project demonstrates a full-stack Vue.js application integrated with Firebase for user data persistence and authentication. The visual insights from charts make budget management engaging and intuitive. Ideal for beginners learning modern frontend frameworks with real backend integration.
 
 #Screenshots
+
 Login Page
-![Login Page](budget-planner/src/assets/loginpage.png)
+![Login Page](src/assets/loginpage.png)
 
 Dashboard View
-![Dashboard 1](budget-planner/src/assets/dashboard1.png)
+![Dashboard 1](src/assets/dashboard1.png)
 
-![Dashboard 2](budget-planner/src/assets/dashboard2.png)
+![Dashboard 2](src/assets/dashboard2.png)
 
-![Dashboard 3](budget-planner/src/assets/dashboard3.png)
+![Dashboard 3](src/assets/dashboard3.png)
