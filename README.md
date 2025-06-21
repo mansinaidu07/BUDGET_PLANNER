@@ -59,11 +59,11 @@ This project demonstrates a full-stack Vue.js application integrated with Fireba
 
 #Screenshots
 Login Page
-![Login Page](assets/loginpage.png)
+![Login Page](src/assets/loginpage.png)
 
 Dashboard View
-![Dashboard 1](assets/dashboard1.png)
+![Dashboard 1](src/assets/dashboard1.png)
 
-![Dashboard 2](assets/dashboard2.png)
+![Dashboard 2](src/assets/dashboard2.png)
 
-![Dashboard 3](assets/dashboard3.png)
+![Dashboard 3](src/assets/dashboard3.png)
